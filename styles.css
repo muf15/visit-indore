@@ -1,10 +1,10 @@
 /**
-Palette: https://coolors.co/palette/000814-001d3d-003566-ffc300-ffd60a
---rich-black: #000814ff;
---oxford-blue: #001d3dff;
---yale-blue: #003566ff;
---mikado-yellow: #ffc300ff;
---gold: #ffd60aff;
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
 
 */
 
@@ -156,5 +156,5 @@ footer {
 
 main {
     min-height: 100vh;
-    padding-bottom: 50px; /* Space for the footer */
+    padding-bottom: 50px;
 }
